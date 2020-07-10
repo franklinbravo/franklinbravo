@@ -1,0 +1,97 @@
+body{
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+p{
+  margin: 0;
+}
+.section1{
+  background: -webkit-linear-gradient(to right, rgba(246, 79, 90, 0.603), rgba(196, 113, 237, 0.61), rgba(18, 194, 233, 0.603)), url("/Fondo.jpg");
+  background: linear-gradient(to right, rgba(246, 79, 90, 0.603), rgba(196, 113, 237, 0.61), rgba(18, 194, 233, 0.603)), url("/Fondo.jpg"); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: auto ;
+  /* background: linear-gradient(120deg, hsla(217, 96%, 81%, 0.603) 0%, hsla(199, 88%, 87%, 0.596) 100%), 
+  url("./assets/fondo.jpg"); */
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.header{
+  min-height: 100px;
+  transition: all .5s ease-in-out;
+}
+.tittle-text{
+  font-size: 3em;
+  color: #fff;
+  text-align: center;
+  transition: all .3s ease-in-out;
+}
+.hidden{
+  opacity: 0;
+}
+#home p{
+  font-size: 30px;
+  transition: all .3s ease-in-out;
+}
+.toggleNavbar{
+  box-shadow: 0px 2px 11px 1px #bfbfbf82;
+  background-color: #fff;
+}
+.toggleNavbarOff{
+  background-color: transparent;
+}
+.toggleBrand{
+  color: #9e9e9e;
+}
+.toggleBrandOff{
+  color:#fff
+}
+.brand{
+  display: inline-block;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+.cardSkills{
+  height: 550px;
+}
+#skills h4{
+  margin: 0;
+}
+.progressBar{
+  height: 15px;
+  transition: width 5s;
+   /* transition: all .3s ease-in-out; */
+}
+.experiences{
+
+  width: 100vw;
+  height: 100vh;
+  border-bottom: 1px solid #f1f1f1;
+}
+.contact{
+  width: 100vw;
+  height: 100vh;
+}
+.skills{
+  border-bottom: 1px solid #f1f1f1;
+}
+.typed-cursor {
+  font-size: 2rem;
+}
+.form{
+  min-height: 400px;
+  max-height: 80vh;
+}
+#text-typed span{
+  font-size: 2rem;
+  color: #fff;
+}
