@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franklinbravo" alt="franklinbravo" /> </p>
 
 - 🔭 I’m currently working as **Freelance**
-
+<img align='right' src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> 
