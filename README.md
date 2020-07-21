@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franklinbravo" alt="franklinbravo" /> </p>
 
 - 🔭 I’m currently working as **Freelance**
-<img align='right' src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ```javascript
 const franklin = {
