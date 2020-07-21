@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working as **Freelance**
 <img align='right' src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
+
 ```javascript
 const franklin = {
   code: [Javascript, Typescript, HTML, CSS],
