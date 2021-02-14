@@ -8,7 +8,7 @@
 ```javascript
 const franklin = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Jest, Apollo Graphql],
+  tools: [React, Redux, Node, Styled-Components, Jest, Apollo Graphql, WebSocket, Workbox],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
